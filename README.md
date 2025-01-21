@@ -84,7 +84,7 @@
 
 ## 📫 Contact
 <a href="mailto:eunjin4419@gmail.com">
-    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/eunjin4419@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/>
