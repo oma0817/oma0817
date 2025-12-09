@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Eunjin's%20Github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oma0817&layout=compact)
-
 ## 📚 Frameworks, Platforms and Libraries
 <!-- npm, yarn -->
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -86,9 +84,3 @@
 <a href="mailto:eunjin4419@gmail.com">
     <img src="https://img.shields.io/badge/eunjin4419@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/>
-<br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oma0817)](https://github.com/anuraghazra/github-readme-stats)
-
